@@ -22,7 +22,7 @@
  ![image](https://github.com/VitorConsulo/Atividade-JS-/assets/159576126/c7900b69-09be-4cb1-a23b-ab3b09a24615)
 
 
- # window.location
+ # window.location.href
  
  ### window.location.href é apenas uma string com o URL completo do site atual quando tudo o que precisa é só a representação textual do URL.
 
