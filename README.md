@@ -31,5 +31,9 @@
 
  ### Eles agem da mesma forma quando você atribui um URL a eles - eles redirecionam para a página que você atribui, mas você pode ver diferenças entre eles quando abre o console do navegador.
 
+ ## Links
+ [Página Código 1](https://vitorconsulo.github.io/Atividade-JS-/codigo1.html)
+ <br>
+ [Página Código 2](https://vitorconsulo.github.io/Atividade-JS-/codigo2.html)
 
 
