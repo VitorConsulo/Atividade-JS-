@@ -1,4 +1,4 @@
-# Código Número 7
+# 7 - Redirecionamento
 ### Podemos utilizar o javaScript no código HTML para poder estar redirecionando o usuário. Este tipo de redirecionamento também é realizado do lado do cliente.
 
 ### Para realizar este redirecionamento basta incluir um script no nosso documento HTML. Portanto, vejamos abaixo a função do JavaScript para realizar o redirecionamento:
@@ -10,7 +10,7 @@
 
 
 
- # Código Número 3 
+ # 3 - Pegar a URL
 
  ### O Document.write()grava diretamente em um fluxo de documentos aberto (HTML).
 
